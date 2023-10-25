@@ -1,0 +1,25 @@
+body
+{
+    background-color: honeydew;
+    color: darkslategrey;
+}
+
+.heading
+{
+    width: 80%;
+    font-size: 25px;
+    color: honeydew;
+    background-color: darkslategray;
+}
+
+#camera, #result
+{
+    border: 2px dotted darkslategray;
+    width: 350px;
+    height: 300px;
+}
+
+.name_of_objects, #result_object_name, #result_accuracy
+{
+    color: rgb(103, 136, 136);
+}
